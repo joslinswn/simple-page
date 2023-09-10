@@ -1,0 +1,12 @@
+body {
+	height: 1000vh;
+}
+
+.content {
+	width: 100%;
+	height: 500px;
+	background-position: center;
+	background-size: cover;
+	background-image: url(img.jpg);
+	background-attachment: fixed;
+}
